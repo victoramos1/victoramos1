@@ -1,7 +1,7 @@
 ### Olá, sou o Victor 👋
 
 - 🔭 Sou Desenvolvedor Mobile e estou em busca da minha primeira oportunidade no mercado de T.I
-- 🌱 Tenho conhecimento em Flutter, Dart, Firebase, Git, Postman, CI/CD e Clean Architecture.
+- 🌱 Tenho conhecimento em Flutter, Dart, Firebase, Git e Postman
 - 👯 Estudando novas tecnologias para sempre ser um profissional mais completo possível
 - 📫 Meus contatos se encontram no Linkedin linkado nesse perfil do Github
 
@@ -53,22 +53,6 @@
 />
 <img 
     align="left" 
-    alt="GitLab" 
-    title="GitLab"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/373625/gitlab.svg" 
-/>
-<img 
-    align="left" 
-    alt="Jenkins" 
-    title="Jenkins"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/353929/jenkins.svg" 
-/>
-<img 
-    align="left" 
     alt="Android Studio" 
     title="Android Studio"
     width="40px" 
@@ -87,7 +71,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=victoramos1&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=victoramos1&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&locale=pt-br" 
   />
 <img 
     align="left" 
