@@ -94,7 +94,7 @@
     alt="Buscador de Filmes" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=victoramos1&repo=buscador-filmes-flutter&theme=radical" 
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=victoramos1&repo=buscador-filmes-flutter&theme=radical" 
   />
 </a>
   <a href="https://github.com/victoramos1/preco-bitcoin" target="_blank">
@@ -103,7 +103,7 @@
     alt="Buscador de Filmes" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=victoramos1&repo=preco-bitcoin&theme=radical" 
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=victoramos1&repo=preco-bitcoin&theme=radical" 
   />
 </a>
     <br clear="left"/>
@@ -114,7 +114,7 @@
     alt="Buscador de Filmes" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=victoramos1&repo=cara-ou-coroa&theme=radical" 
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=victoramos1&repo=cara-ou-coroa&theme=radical" 
   />
 </a>
   <a href="https://github.com/victoramos1/jokenpo" target="_blank">
@@ -123,7 +123,7 @@
     alt="Buscador de Filmes" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=victoramos1&repo=jokenpo&theme=radical" 
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=victoramos1&repo=jokenpo&theme=radical" 
   />
 </a>
     <br clear="left"/>
@@ -134,7 +134,7 @@
     alt="Buscador de Filmes" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=victoramos1&repo=frases-do-dia&theme=radical" 
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=victoramos1&repo=frases-do-dia&theme=radical" 
   />
 </a>
   <a href="https://github.com/victoramos1/alcool-ou-gasolina" target="_blank">
@@ -143,7 +143,7 @@
     alt="Buscador de Filmes" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=victoramos1&repo=alcool-ou-gasolina&theme=radical" 
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=victoramos1&repo=alcool-ou-gasolina&theme=radical" 
   />
 </a>
     <br clear="left"/>
@@ -154,7 +154,7 @@
     alt="Buscador de Filmes" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=victoramos1&repo=lista-de-tarefas&theme=radical" 
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=victoramos1&repo=lista-de-tarefas&theme=radical" 
   />
 </a>
   <a href="https://github.com/victoramos1/atm-consultoria" target="_blank">
@@ -163,7 +163,7 @@
     alt="Buscador de Filmes" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=victoramos1&repo=atm-consultoria&theme=radical" 
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=victoramos1&repo=atm-consultoria&theme=radical" 
   />
 </a>
     <br clear="left"/>
@@ -174,7 +174,7 @@
     alt="Buscador de Filmes" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=victoramos1&repo=clima-cidades&theme=radical" 
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=victoramos1&repo=clima-cidades&theme=radical" 
   />
 </a>
   <a href="https://github.com/victoramos1/calculadora-imc" target="_blank">
@@ -183,7 +183,7 @@
     alt="Buscador de Filmes" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=victoramos1&repo=calculadora-imc&theme=radical" 
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=victoramos1&repo=calculadora-imc&theme=radical" 
   />
 </a>
 </p>
