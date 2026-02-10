@@ -71,13 +71,13 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=victoramos1&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-fast.vercel.app/api?username=victoramos1&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&locale=pt-br" 
   />
 <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoramos1&theme=radical&layout=donut&custom_title=Linguagens" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=victoramos1&theme=radical&layout=donut&custom_title=Linguagens" 
   />
 </p>
 
